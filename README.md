@@ -32,6 +32,3 @@ Make sure you have the required dependencies installed:
 - Check the hyperparameters, such as learning rate and batch size, for optimal model performance.
 - If using the provided sophisticated model, ensure you have enough computational resources for training.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
